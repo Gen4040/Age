@@ -45,7 +45,7 @@ public class Main extends Activity {
         }
         return super.onOptionsItemSelected(item);
     }
-// Test
+
     /**
      * A placeholder fragment containing a simple view.
      */
